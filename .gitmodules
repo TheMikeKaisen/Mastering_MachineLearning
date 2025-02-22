@@ -1,0 +1,3 @@
+[submodule "Polynomial-regression"]
+	path = Polynomial-regression
+	url = https://github.com/TheMikeKaisen/Polynomial-regression
